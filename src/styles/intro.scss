@@ -1,0 +1,13 @@
+.intro{
+    height: calc(100vh - 40px);
+    video{
+        width: 100%;
+        margin-top: -40px;
+    }
+    div{
+        width: 100%;
+        height: calc(100vh - 40px);
+        position: absolute;
+        top: 0%;
+    }
+}
